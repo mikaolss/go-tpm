@@ -25,3 +25,9 @@ tags
 
 # Generated files
 constants_string.go
+/tpm2/constants.go
+/tpm2/constants_internal.go
+/tpm2/transport/tpm.go
+/tpm2/tpm2b.go
+/tpm2/tpm2.go
+/tpm2/templates.go
